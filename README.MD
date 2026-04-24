@@ -74,15 +74,6 @@ Machine learning model to predict which bank customers are likely to churn (leav
 - kagglehub
 - joblib
 
-## Repository Structure
-├── bank_churn.ipynb          # Main analysis notebook
-├── churn_model.pkl           # Trained Gradient Boosting model
-├── scaler.pkl                # Fitted StandardScaler
-├── feature_names.pkl         # Feature names for inference
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-└── .gitignore               # Git ignore rules
-
 ## Author
 Alhajali Jalal
 
